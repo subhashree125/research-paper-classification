@@ -141,10 +141,3 @@ This repository contains a comprehensive pipeline for processing PDF documents, 
 - Verify that all necessary files are placed in their respective directories.
 - Check log outputs for specific errors during execution.
 
-# Research_paper_classification
-# Research_paper_classification
-# Research_paper_classification
-# Research_paper_classification
-# Research_paper_classification
-# Research_paper_classification
-# research-paper-classification
